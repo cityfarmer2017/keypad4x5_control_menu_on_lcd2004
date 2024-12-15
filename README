@@ -1,0 +1,5 @@
+# Arduino demo of using keypda to control LCD
+
+
+A demo project to use a 4x5 keypad controlling operation on a 20x4 LCD, based on Arduino plateform, and the project 
+orgnization is using PlateformIo.
